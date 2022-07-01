@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "phuc.tran@mail.com",
+      "password": "$2a$10$BA2eHzp0k90Rf2jovYahS.lLG.Md4CexFn0mzzT3yZxTUthgl3ANm",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": "f40c28c9-4824-4f84-9cdb-067d7526b43b",
+      "name": "Dép Lào",
+      "price": 1000000,
+      "createdAt": 1656679536334,
+      "updateAt": 1656679536334
+    }
+  ]
+}
